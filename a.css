@@ -6,7 +6,7 @@ body, html {
 
 .bg {
   
-  background-image: url("IMG_20181216_143023.jpg");  
+  background-image: url("blackvii_thumbnail.jpg");  
   height: 100%;   
   background-position: center;
   background-repeat: no-repeat;
@@ -16,14 +16,14 @@ body, html {
 
 .container {
   margin-left: 300px;
-  padding-top: 60px;
+  padding-top: 65px;
 }
 
 .panel-body{
   height: 520px;
   width: 900px;
   margin-left: 100px;
-  background-image: url(IMG_20171030_18020970777.jpg);
+  background-image: url("19634.jpg");
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat; 
